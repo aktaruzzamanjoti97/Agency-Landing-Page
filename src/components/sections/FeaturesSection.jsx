@@ -6,7 +6,7 @@ const FeaturesSection = () => {
 			title: 'Work with tools you already use',
 			description:
 				'Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.',
-			image: '/assets/features/feature-1.png',
+			image: './assets/features/feature-1.png',
 			imagePosition: 'right',
 			bulletPoints: [
 				'Continuous integration and deployment',
@@ -20,7 +20,7 @@ const FeaturesSection = () => {
 			title: "We invest in the world's potential",
 			description:
 				'Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.',
-			image: '/assets/features/feature-2.png',
+			image: './assets/features/feature-2.png',
 			imagePosition: 'left',
 			bulletPoints: [
 				'Dynamic reports and dashboards',
