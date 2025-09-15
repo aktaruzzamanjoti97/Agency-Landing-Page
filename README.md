@@ -1,5 +1,5 @@
 # Live Link
-https://aktaruzzamanjoti97.github.io/Agency-Landing-Page/
+https://aktaruzzamanjoti97.github.io/Agency-Landing-Page
 
 ## React + Vite
 
